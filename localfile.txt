@@ -1,0 +1,4 @@
+Hello AWS S3
+This is my first upload using boto3
+__pycache__/
+*.pyc
